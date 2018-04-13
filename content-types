@@ -1,0 +1,11 @@
+application/pdf=pdf
+text/plain=txt
+text/html=html
+text/css=css
+image/jpeg=jpg
+image/png=png
+image/gif=gif
+audio/mpeg=mp3
+audio/wav=wav
+video/mp4=mp4
+video/webm=webm
